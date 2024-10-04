@@ -11,8 +11,13 @@ header nav{
     text-align: center;
     
 }
+#flex-container{
+    background-color: beige;
+    display: flex;
+}
 #formulariotitulo{
     font-size: 10px;
+
 }
 #EnterWI{
     background-color: aqua;
