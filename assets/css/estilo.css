@@ -25,6 +25,7 @@ header nav{
 }
 #titulo4{
     color: aqua;
+    margin-top: 40px;
     text-align: center;
 }
 #parrafo4{
@@ -33,6 +34,7 @@ header nav{
 }
 #imgbeach{
     margin-left: auto;
+    margin-right: auto;
 }
 ul{
     text-align: center;
